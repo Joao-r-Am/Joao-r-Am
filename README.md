@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m João R. Amorim;
 
 - 👀 Sou entusiasta em segurança da informação e desenvolvo games e projetos fullstack;
-- 🌱 Estou aprendendo atualmente node.js e GMS;
+- 🌱 Estou aprendendo atualmente node.js e Vue.js para desenvolvimento front-end;
 - 📫 Caso queira contatar: joaoric.amorim@gmail.com, https://www.linkedin.com/in/joão-ricardo-amorim-451288161/;
 
  <div>
