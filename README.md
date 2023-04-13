@@ -20,6 +20,7 @@
   <img align="center" alt="Joao-Wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
   <img align="center" alt="Joao-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Joao-Raspeberrypi" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg">
+   <img align="center" alt="Joao-Raspeberrypi" height="30" width="40" src="https://raw.githubusercontent.com/wyatt-herkamp/vue3-simple-icons/latest/example/src/assets/logo.png">
 </div>
   
   ##
