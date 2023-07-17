@@ -22,7 +22,7 @@
   <img align="center" alt="Joao-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Joao-Raspeberrypi" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg">
    <img align="center" alt="vue" height="30" width="40" src="https://raw.githubusercontent.com/wyatt-herkamp/vue3-simple-icons/latest/example/src/assets/logo.png">
-   <img align="center" alt="Joao-react" height="30" width="40" src="https://raw.githubusercontent.com/wyatt-herkamp/react-simple-icons/latest/example/src/assets/logo.png">
+   <img align="center" alt="Joao-react" height="30" width="40" src="https://icons8.com/icons/set/react">
 </div>
   
   ##
