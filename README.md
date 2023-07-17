@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m João R. Amorim;
 
 - 👀 Sou entusiasta em segurança da informação e desenvolvo games e projetos fullstack;
-- 🌱 Estou aprendendo atualmente node.js e Vue.js para desenvolvimento front-end;
+- 🌱 Atuo como desenvolvedor fullstack com vue.js // react.js e nest.js // python;
 - 📫 Caso queira contatar: joaoric.amorim@gmail.com;
 
  <div>
@@ -21,7 +21,8 @@
   <img align="center" alt="Joao-Wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
   <img align="center" alt="Joao-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Joao-Raspeberrypi" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg">
-   <img align="center" alt="Joao-Raspeberrypi" height="30" width="40" src="https://raw.githubusercontent.com/wyatt-herkamp/vue3-simple-icons/latest/example/src/assets/logo.png">
+   <img align="center" alt="vue" height="30" width="40" src="https://raw.githubusercontent.com/wyatt-herkamp/vue3-simple-icons/latest/example/src/assets/logo.png">
+   <img align="center" alt="Joao-react" height="30" width="40" src="https://raw.githubusercontent.com/wyatt-herkamp/react-simple-icons/latest/example/src/assets/logo.png">
 </div>
   
   ##
