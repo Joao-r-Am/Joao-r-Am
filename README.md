@@ -1,13 +1,13 @@
-## 👋 Hi, I’m João R. Amorim;
+## 👋 Olá, me chamo João Ricardo de Amorim;
 
 - 👀 Sou entusiasta em segurança da informação e desenvolvo games e projetos fullstack;
-- 🌱 Atuo como desenvolvedor fullstack com vue.js // react.js e nest.js // python;
+- 🌱 Atuo como desenvolvedor fullstack com javascript // python // java;
 - 📫 Caso queira contatar: joaoric.amorim@gmail.com;
 
  <div>
   <a href="https://github.com/Joao-r-Am">
-  <img  style="width: 20vw; height: 20vh" src="https://github-readme-stats.vercel.app/api?username=Joao-r-Am&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img  style="width: 20vw; height: 18vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-r-Am&layout=compact&langs_count=7&theme=merko"/>
+  <img  style="width: 30vw; height: 20vh" src="https://github-readme-stats.vercel.app/api?username=Joao-r-Am&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img  style="width: 30vw; height: 20vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-r-Am&layout=compact&langs_count=7&theme=merko"/>
 </div>
   
   <div style="display: inline_block"><br>
