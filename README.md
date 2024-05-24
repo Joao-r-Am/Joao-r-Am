@@ -5,8 +5,8 @@
 - 📫 Caso queira contatar: joaoric.amorim@gmail.com;
 
  <div style="display: flex">
-  <img  style="width: 30vw; height: 20vh; margin-left:30px" src="https://github-readme-stats.vercel.app/api?username=Joao-r-Am&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img  style="width: 40vw; height: 20vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-r-Am&layout=compact&langs_count=7&theme=merko"/>
+  <img  style="width: 500px; height: 200px; margin-left: 15px" src="https://github-readme-stats.vercel.app/api?username=Joao-r-Am&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img  style="width: 500px; height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-r-Am&layout=compact&langs_count=7&theme=merko"/>
 </div>
   
   <div style="display: inline_block"><br>
