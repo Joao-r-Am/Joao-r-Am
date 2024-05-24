@@ -4,7 +4,7 @@
 - 🌱 Atuo como desenvolvedor fullstack com javascript // python // java;
 - 📫 Caso queira contatar: joaoric.amorim@gmail.com;
 
- <div>
+ <div style="display: flex">
   <a href="https://github.com/Joao-r-Am">
   <img  style="width: 30vw; height: 20vh; margin-left:30px" src="https://github-readme-stats.vercel.app/api?username=Joao-r-Am&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img  style="width: 40vw; height: 20vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-r-Am&layout=compact&langs_count=7&theme=merko"/>
